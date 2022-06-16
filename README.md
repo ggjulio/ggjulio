@@ -1,4 +1,7 @@
-### To do
+### Next repos to explore in depth 🔭
+- https://github.com/donnemartin/system-design-primer
+- https://github.com/kelseyhightower/kubernetes-the-hard-way
+- https://github.com/kamranahmedse/developer-roadmap
 
 
 <!--
