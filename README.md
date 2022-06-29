@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggjulio&hide=objective-c,makefile,javascript,swift&theme=tokyonight" />
 </a>
 <a href="https://github.com/ggjulio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ggjulio&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ggjulio&show_icons=true&count_private=true&theme=tokyonight" />
 </a>
 
 
