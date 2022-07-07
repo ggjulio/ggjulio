@@ -1,8 +1,10 @@
-### Next repos to explore in depth 🔭
+### Next ressources to explore in depth 🔭
 - https://github.com/donnemartin/system-design-primer
 - https://github.com/kelseyhightower/kubernetes-the-hard-way
 - https://github.com/kamranahmedse/developer-roadmap
-
+- https://digital.ai/devops-tools-periodic-table
+- https://app.brainboard.co/
+- https://www.youtube.com/watch?v=B6FsWNUnRo0&list=PLSAko72nKb8QWsfPpBlsw-kOdMBD7sra-&ab_channel=TheLearningChannel
 
 <a href="https://github.com/ggjulio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggjulio&hide=objective-c,makefile,javascript,swift&theme=tokyonight" />
