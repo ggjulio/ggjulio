@@ -3,6 +3,7 @@
 - https://github.com/kelseyhightower/kubernetes-the-hard-way
 - https://github.com/kamranahmedse/developer-roadmap
 - https://securityzines.com/
+- https://about.gitlab.com/handbook/engineering/development/enablement/data_stores/database/doc/root-namespace-sharding.html
 - https://digital.ai/devops-tools-periodic-table
 - https://www.youtube.com/watch?v=B6FsWNUnRo0&list=PLSAko72nKb8QWsfPpBlsw-kOdMBD7sra-&ab_channel=TheLearningChannel
 
