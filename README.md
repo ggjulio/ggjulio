@@ -6,8 +6,8 @@
 - https://about.gitlab.com/handbook/engineering/development/enablement/data_stores/database/doc/root-namespace-sharding.html
 - https://digital.ai/devops-tools-periodic-table
 - https://www.youtube.com/watch?v=B6FsWNUnRo0&list=PLSAko72nKb8QWsfPpBlsw-kOdMBD7sra-&ab_channel=TheLearningChannel
-- https://blog.alicegoldfuss.com/how-to-get-into-sre/
 - https://github.com/mxssl/sre-interview-prep-guide
+- https://blog.alicegoldfuss.com/how-to-get-into-sre/
 
 <a href="https://github.com/ggjulio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggjulio&hide=objective-c,makefile,javascript,swift&theme=tokyonight" />
