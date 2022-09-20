@@ -1,4 +1,4 @@
-### Next ressources to explore in depth 🔭
+### My curated list of sources to explore in depth 🔭
 - https://github.com/donnemartin/system-design-primer
 - https://github.com/kelseyhightower/kubernetes-the-hard-way
 - https://github.com/kamranahmedse/developer-roadmap
@@ -8,6 +8,7 @@
 - https://www.youtube.com/watch?v=B6FsWNUnRo0&list=PLSAko72nKb8QWsfPpBlsw-kOdMBD7sra-&ab_channel=TheLearningChannel
 - https://github.com/mxssl/sre-interview-prep-guide
 - https://blog.alicegoldfuss.com/how-to-get-into-sre/
+- https://github.com/alex-xu-system/bytebytego/blob/main/system_design_links.md
 
 <a href="https://github.com/ggjulio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggjulio&hide=objective-c,makefile,javascript,swift&theme=tokyonight" />
