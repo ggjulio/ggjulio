@@ -1,4 +1,4 @@
-### My curated list of sources to explore in depth 🔭
+### Awesome sources to explore in depth 🔭
 - https://github.com/donnemartin/system-design-primer
 - https://github.com/kelseyhightower/kubernetes-the-hard-way
 - https://github.com/kamranahmedse/developer-roadmap
