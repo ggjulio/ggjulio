@@ -14,10 +14,19 @@
 [![badge java][badge-java]][link-linkedin]
 [![badge python][badge-python]][link-linkedin]
 [![badge typescript][badge-typescript]][link-linkedin]
+[![badge shell][badge-shell]][link-linkedin]
 </details>
 
+<details>
+  <summary><b>Devops</b></summary>
+  
+  [![badge linux][badge-linux]][link-linkedin]
+  [![badge docker][badge-docker]][link-linkedin]
+  [![badge kubernetes][badge-kubernetes]][link-linkedin]
+  [![badge vagrant][badge-vagrant]][link-linkedin]
+  [![badge argocd][badge-argocd]][link-linkedin]
 
-
+</details>
 
 
 ---
@@ -75,23 +84,30 @@ Here are some ideas to get you started:
 [link-grabcad]: https://grabcad.com/julio.gonzalez-29
 [link-42]: https://profile.intra.42.fr/users/juligonz
 
-<!-- badges tech-->
+<!-- badges languages-->
 
 [badge-c]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=c&logoColor=white
-
 [badge-cplusplus]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=cplusplus&logoColor=white
 
 [badge-csharp]: https://img.shields.io/badge/-C%23-grey?style=for-the-badge&logo=csharp&logoColor=white
 
 [badge-java]: https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=java&logoColor=white
 [badge-typescript]: https://img.shields.io/badge/-typescript-grey?style=for-the-badge&logo=typescript&logoColor=white
+[badge-shell]: https://img.shields.io/badge/-Shell-grey?style=for-the-badge&logo=gnu-bash&logoColor=white
 
 [badge-python]: https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white
+
+<!-- badges tech-->
+
+[badge-linux]: https://img.shields.io/badge/-❤️Linux-grey?style=for-the-badge&logo=linux&logoColor=white
+[badge-docker]: https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker&logoColor=white
+[badge-kubernetes]: https://img.shields.io/badge/-k8s-grey?style=for-the-badge&logo=kubernetes&logoColor=white
+[badge-vagrant]: https://img.shields.io/badge/-vagrant-grey?style=for-the-badge&logo=vagrant&logoColor=white
+[badge-argocd]: https://img.shields.io/badge/-argocd-grey?style=for-the-badge&logo=argo&logoColor=white
 
 <!-- badges social-->
 
 [badge-42]: https://img.shields.io/badge/-Paris-grey?style=for-the-badge&logo=42&logoColor=white&link=https://profile.intra.42.fr/users/juligonz
-
 
 [badge-linkedin]: https://img.shields.io/badge/-Linkedin-grey?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ggjulio
 
