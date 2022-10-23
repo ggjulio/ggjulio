@@ -3,7 +3,7 @@
 [![Linkedin Badge][badge-linkedin]][link-linkedin]
 [![Codingame Badge][badge-codingame]][link-codingame]
 [![GrabCad Badge][badge-grabcad]][link-grabcad]
-[![42 Badge](https://img.shields.io/badge/-Paris-grey?style=for-the-badge&logo=42&logoColor=white&link=https://profile.intra.42.fr/users/juligonz)](https://profile.intra.42.fr/users/juligonz)
+[![42 Badge][badge-42]](https://profile.intra.42.fr/users/juligonz)
 
 
 [![cplusplus Badge](https://img.shields.io/badge/--grey?style=for-the-badge&logo=cplusplus&logoColor=wwhite&link=https://www.linkedin.com/in/ggjulio)](https://www.linkedin.com/in/ggjulio)
