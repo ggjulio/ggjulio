@@ -25,6 +25,8 @@
   [![badge kubernetes][badge-kubernetes]][link-linkedin]
   [![badge vagrant][badge-vagrant]][link-linkedin]
   [![badge argocd][badge-argocd]][link-linkedin]
+  [![badge ansible][badge-ansible]][link-linkedin]
+  [![badge aws][badge-aws]][link-linkedin]
 
 </details>
 
@@ -104,6 +106,8 @@ Here are some ideas to get you started:
 [badge-kubernetes]: https://img.shields.io/badge/-k8s-grey?style=for-the-badge&logo=kubernetes&logoColor=white
 [badge-vagrant]: https://img.shields.io/badge/-vagrant-grey?style=for-the-badge&logo=vagrant&logoColor=white
 [badge-argocd]: https://img.shields.io/badge/-argocd-grey?style=for-the-badge&logo=argo&logoColor=white
+[badge-ansible]: https://img.shields.io/badge/-ansible-grey?style=for-the-badge&logo=ansible&logoColor=white
+[badge-aws]: https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=amazon-aws&logoColor=white
 
 <!-- badges social-->
 
