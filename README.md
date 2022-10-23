@@ -1,12 +1,13 @@
-#### Hi I'm Julio !
+#### Hi I'm Julio, Stu !
 ---
-[![Linkedin Badge][badge-linkedin]][link-linkedin]
-[![Codingame Badge][badge-codingame]][link-codingame]
-[![GrabCad Badge][badge-grabcad-no-logo]][link-grabcad]
-[![42 Badge][badge-42]][link-42]
+[![badge linkedin][badge-linkedin]][link-linkedin]
+[![badge codingame][badge-codingame]][link-codingame]
+[![badge GrabCad][badge-grabcad-no-logo]][link-grabcad]
+[![badge 42][badge-42]][link-42]
 
-[![cplusplus Badge](https://img.shields.io/badge/--grey?style=for-the-badge&logo=cplusplus&logoColor=wwhite&link=https://www.linkedin.com/in/ggjulio)](https://www.linkedin.com/in/ggjulio)
-
+[![badge c][badge-c]][link-linkedin]
+[![badge cplusplus][badge-cplusplus]][link-linkedin]
+[![badge csharp][badge-csharp]][link-linkedin]
 
 
 
@@ -68,7 +69,13 @@ Here are some ideas to get you started:
 [link-grabcad]: https://grabcad.com/julio.gonzalez-29
 [link-42]: https://profile.intra.42.fr/users/juligonz
 
-<!-- badges -->
+<!-- badges tech-->
+
+[badge-c]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=c&logoColor=wwhite&link=https://www.linkedin.com/in/ggjulio
+[badge-cplusplus]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=cplusplus&logoColor=wwhite&link=https://www.linkedin.com/in/ggjulio
+[badge-csharp]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=csharp&logoColor=wwhite&link=https://www.linkedin.com/in/ggjulio
+
+<!-- badges social-->
 
 [badge-42]: https://img.shields.io/badge/-Paris-grey?style=for-the-badge&logo=42&logoColor=white&link=https://profile.intra.42.fr/users/juligonz
 

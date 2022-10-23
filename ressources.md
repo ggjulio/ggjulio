@@ -8,6 +8,7 @@
 - https://github.com/simple-icons/simple-icons
 - [usable logo name in shield io](https://simpleicons.org/)
 - https://naereen.github.io/badges/
+- https://github.com/DenverCoder1/readme-typing-svg/blob/main/README.md
 
 Svg to base64:
 - https://codebeautify.org/svg-to-base64-converter
