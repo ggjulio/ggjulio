@@ -8,6 +8,7 @@
 [![badge c][badge-c]][link-linkedin]
 [![badge cplusplus][badge-cplusplus]][link-linkedin]
 [![badge csharp][badge-csharp]][link-linkedin]
+[![badge java][badge-java]][link-linkedin]
 
 
 
@@ -71,9 +72,13 @@ Here are some ideas to get you started:
 
 <!-- badges tech-->
 
-[badge-c]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=c&logoColor=wwhite&link=https://www.linkedin.com/in/ggjulio
-[badge-cplusplus]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=cplusplus&logoColor=wwhite&link=https://www.linkedin.com/in/ggjulio
-[badge-csharp]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=csharp&logoColor=wwhite&link=https://www.linkedin.com/in/ggjulio
+[badge-c]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=c&logoColor=white&link=https://www.linkedin.com/in/ggjulio
+
+[badge-cplusplus]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=cplusplus&logoColor=white&link=https://www.linkedin.com/in/ggjulio
+
+[badge-csharp]: https://img.shields.io/badge/-C%23-grey?style=for-the-badge&logo=csharp&logoColor=white&link=https://www.linkedin.com/in/ggjulio
+
+[badge-java]: https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=&logoColor=white
 
 <!-- badges social-->
 
