@@ -32,17 +32,17 @@
 
 </details>
 <details>
-  <summary><b>📈  Stats</b></summary>
+  <summary><b>📈  Github's stats</b></summary>
 
   <a href="https://github.com/ggjulio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggjulio&hide=objective-c,makefile,javascript,swift&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ggjulio">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ggjulio&show_icons=true&count_private=true&theme=tokyonight" />
+  <a href="https://github.com/ggjulio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggjulio&layout=compact&hide=objective-c,makefile,javascript,swift&theme=tokyonight" />
+  </a>
 </a>
 </details>
 
-#### Random joke
+#### [Random Joke](https://github.com/ABSphreak/readme-jokes)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
