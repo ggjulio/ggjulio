@@ -7,3 +7,11 @@
 - https://github.com/badges/shields/blob/master/doc/logos.md
 - https://github.com/simple-icons/simple-icons
 - [usable logo name in shield io](https://simpleicons.org/)
+
+
+Svg to base64:
+- https://codebeautify.org/svg-to-base64-converter
+
+image to base64:
+- https://onlinepngtools.com/convert-png-to-base64
+- https://www.base64-image.de/
