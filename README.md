@@ -3,7 +3,7 @@
 [![Linkedin Badge][badge-linkedin]][link-linkedin]
 [![Codingame Badge][badge-codingame]][link-codingame]
 [![GrabCad Badge][badge-grabcad-no-logo]][link-grabcad]
-[![42 Badge][badge-42]](link-42)
+[![42 Badge][badge-42]][link-42]
 
 [![cplusplus Badge](https://img.shields.io/badge/--grey?style=for-the-badge&logo=cplusplus&logoColor=wwhite&link=https://www.linkedin.com/in/ggjulio)](https://www.linkedin.com/in/ggjulio)
 
