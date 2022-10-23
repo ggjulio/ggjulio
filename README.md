@@ -1,4 +1,4 @@
-#### WIP
+#### Work in progress
 ---
 [![badge linkedin][badge-linkedin]][link-linkedin]
 [![badge codingame][badge-codingame]][link-codingame]
