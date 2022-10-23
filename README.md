@@ -1,15 +1,20 @@
-#### Hi I'm Julio, Stu !
+#### WIP
 ---
 [![badge linkedin][badge-linkedin]][link-linkedin]
 [![badge codingame][badge-codingame]][link-codingame]
 [![badge GrabCad][badge-grabcad-no-logo]][link-grabcad]
 [![badge 42][badge-42]][link-42]
 
+<details>
+  <summary><b>Languages</b></summary>
+
 [![badge c][badge-c]][link-linkedin]
 [![badge cplusplus][badge-cplusplus]][link-linkedin]
 [![badge csharp][badge-csharp]][link-linkedin]
 [![badge java][badge-java]][link-linkedin]
-
+[![badge python][badge-python]][link-linkedin]
+[![badge typescript][badge-typescript]][link-linkedin]
+</details>
 
 
 
@@ -72,13 +77,16 @@ Here are some ideas to get you started:
 
 <!-- badges tech-->
 
-[badge-c]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=c&logoColor=white&link=https://www.linkedin.com/in/ggjulio
+[badge-c]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=c&logoColor=white
 
-[badge-cplusplus]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=cplusplus&logoColor=white&link=https://www.linkedin.com/in/ggjulio
+[badge-cplusplus]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=cplusplus&logoColor=white
 
-[badge-csharp]: https://img.shields.io/badge/-C%23-grey?style=for-the-badge&logo=csharp&logoColor=white&link=https://www.linkedin.com/in/ggjulio
+[badge-csharp]: https://img.shields.io/badge/-C%23-grey?style=for-the-badge&logo=csharp&logoColor=white
 
-[badge-java]: https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=&logoColor=white
+[badge-java]: https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=java&logoColor=white
+[badge-typescript]: https://img.shields.io/badge/-typescript-grey?style=for-the-badge&logo=typescript&logoColor=white
+
+[badge-python]: https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white
 
 <!-- badges social-->
 
