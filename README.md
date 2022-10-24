@@ -16,21 +16,18 @@
 [![badge python][badge-python]][link-linkedin]
 [![badge typescript][badge-typescript]][link-linkedin]
 [![badge shell][badge-shell]][link-linkedin]
+[![badge assembly][badge-assembly]][link-linkedin]
 </details>
-
 <details>
-  <summary><b>🚧 WIP 🚧 </b></summary>
-  
+  <summary><b> General </b></summary>
+
 [![badge linux][badge-linux]][link-linkedin]
 [![badge docker][badge-docker]][link-linkedin]
-[![badge kubernetes][badge-kubernetes]][link-linkedin]
-[![badge vagrant][badge-vagrant]][link-linkedin]
-[![badge argocd][badge-argocd]][link-linkedin]
-[![badge ansible][badge-ansible]][link-linkedin]
-[![badge aws][badge-aws]][link-linkedin]
-[![badge influxdb][badge-influxdb]][link-linkedin]
-[![badge grafana][badge-grafana]][link-linkedin]
-[![badge vuejs][badge-vuejs]][link-linkedin]
+
+</details>
+<details>
+  <summary><b> Backend </b></summary>
+
 [![badge nestjs][badge-nestjs]][link-linkedin]
 [![badge jest][badge-jest]][link-linkedin]
 [![badge nginx][badge-nginx]][link-linkedin]
@@ -38,9 +35,40 @@
 [![badge postgres][badge-postgres]][link-linkedin]
 [![badge openapi][badge-openapi]][link-linkedin]
 [![badge nodejs][badge-nodejs]][link-linkedin]
+</details>
+<details>
+  <summary><b> Frontend </b></summary>
+
+#### test
+
+[![badge vuejs][badge-vuejs]][link-linkedin]
+[![badge sass][badge-sass]][link-linkedin]
+[![badge bootstrap][badge-bootstrap]][link-linkedin]
+</details>
+<details>
+  <summary><b> Devops </b></summary>
+
+[![badge kubernetes][badge-kubernetes]][link-linkedin]
+[![badge k3s][badge-k3s]][link-linkedin]
+[![badge grafana][badge-grafana]][link-linkedin]
+[![badge helm][badge-helm]][link-helm]
+</details>
+<details>
+  <summary><b> Security </b></summary>
+  
+[![badge wireshark][badge-wireshark]][link-linkedin]
 
 </details>
+<details>
+  <summary><b>🚧 WIP 🚧 </b></summary>
+  
+[![badge vagrant][badge-vagrant]][link-linkedin]
+[![badge argocd][badge-argocd]][link-linkedin]
+[![badge ansible][badge-ansible]][link-linkedin]
+[![badge aws][badge-aws]][link-linkedin]
+[![badge influxdb][badge-influxdb]][link-linkedin]
 
+</details>
 
 ---
 <details>
@@ -110,19 +138,17 @@ Here are some ideas to get you started:
 [badge-shell]: https://img.shields.io/badge/-Shell-grey?style=for-the-badge&logo=gnu-bash
 
 [badge-python]: https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python
+[badge-assembly]: https://img.shields.io/badge/-assembly-grey?style=for-the-badge&logo=assembly
 
+<!----------------------->
 <!-- badges tech-->
-
+<!----------------------->
+<!-- badges general -->
 [badge-linux]: https://img.shields.io/badge/-❤️Linux-grey?style=for-the-badge&logo=linux&logoColor=white
 [badge-docker]: https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker
-[badge-kubernetes]: https://img.shields.io/badge/-k8s-grey?style=for-the-badge&logo=kubernetes
-[badge-vagrant]: https://img.shields.io/badge/-vagrant-grey?style=for-the-badge&logo=vagrant&logoColor=green
-[badge-argocd]: https://img.shields.io/badge/-argocd-grey?style=for-the-badge&logo=argo
-[badge-ansible]: https://img.shields.io/badge/-ansible-grey?style=for-the-badge&logo=ansible
-[badge-aws]: https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=amazon-aws
+
+<!-- badges backend -->
 [badge-influxdb]: https://img.shields.io/badge/-influxdb-grey?style=for-the-badge&logo=influxdb
-[badge-grafana]: https://img.shields.io/badge/-grafana-grey?style=for-the-badge&logo=grafana
-[badge-vuejs]: https://img.shields.io/badge/-vuejs-grey?style=for-the-badge&logo=vue.js
 [badge-nestjs]: https://img.shields.io/badge/-nestjs-grey?style=for-the-badge&logo=nestjs
 [badge-jest]: https://img.shields.io/badge/-jest-grey?style=for-the-badge&logo=jest
 [badge-nginx]: https://img.shields.io/badge/-nginx-grey?style=for-the-badge&logo=nginx
@@ -130,6 +156,27 @@ Here are some ideas to get you started:
 [badge-postgres]: https://img.shields.io/badge/-postgres-grey?style=for-the-badge&logo=postgresql&&logoColor=white
 [badge-openapi]: https://img.shields.io/badge/-openapi-grey?style=for-the-badge&logo=openapi-initiative
 [badge-nodejs]: https://img.shields.io/badge/-nodejs-grey?style=for-the-badge&logo=node.js
+[badge-wireshark]: https://img.shields.io/badge/-wireshark-grey?style=for-the-badge&logo=wireshark
+
+<!-- badges frontend -->
+[badge-vuejs]: https://img.shields.io/badge/-vuejs-grey?style=for-the-badge&logo=vue.js
+[badge-sass]: https://img.shields.io/badge/-sass-grey?style=for-the-badge&logo=sass
+[badge-bootstrap]: https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap
+
+<!-- badges devops -->
+[badge-kubernetes]: https://img.shields.io/badge/-k8s-grey?style=for-the-badge&logo=kubernetes
+[badge-k3s]: https://img.shields.io/badge/-k3s-grey?style=for-the-badge&logo=k3s
+[badge-argocd]: https://img.shields.io/badge/-argocd-grey?style=for-the-badge&logo=argo
+[badge-ansible]: https://img.shields.io/badge/-ansible-grey?style=for-the-badge&logo=ansible
+[badge-vagrant]: https://img.shields.io/badge/-vagrant-grey?style=for-the-badge&logo=vagrant&logoColor=green
+[badge-aws]: https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=amazon-aws
+[badge-grafana]: https://img.shields.io/badge/-grafana-grey?style=for-the-badge&logo=grafana
+
+<!-- badges security -->
+
+<!-- misc -->
+
+
 
 <!-- badges social-->
 
