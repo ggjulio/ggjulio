@@ -18,15 +18,23 @@
 </details>
 
 <details>
-  <summary><b>Devops</b></summary>
+  <summary><b>WIP</b></summary>
   
-  [![badge linux][badge-linux]][link-linkedin]
-  [![badge docker][badge-docker]][link-linkedin]
-  [![badge kubernetes][badge-kubernetes]][link-linkedin]
-  [![badge vagrant][badge-vagrant]][link-linkedin]
-  [![badge argocd][badge-argocd]][link-linkedin]
-  [![badge ansible][badge-ansible]][link-linkedin]
-  [![badge aws][badge-aws]][link-linkedin]
+[![badge linux][badge-linux]][link-linkedin]
+[![badge docker][badge-docker]][link-linkedin]
+[![badge kubernetes][badge-kubernetes]][link-linkedin]
+[![badge vagrant][badge-vagrant]][link-linkedin]
+[![badge argocd][badge-argocd]][link-linkedin]
+[![badge ansible][badge-ansible]][link-linkedin]
+[![badge aws][badge-aws]][link-linkedin]
+[![badge influxdb][badge-influxdb]][link-linkedin]
+[![badge grafana][badge-grafana]][link-linkedin]
+[![badge vuejs][badge-vuejs]][link-linkedin]
+[![badge nestjs][badge-nestjs]][link-linkedin]
+[![badge jest][badge-jest]][link-linkedin]
+[![badge nginx][badge-nginx]][link-linkedin]
+[![badge mariadb][badge-mariadb]][link-linkedin]
+[![badge postgres][badge-postgres]][link-linkedin]
 
 </details>
 
@@ -88,32 +96,40 @@ Here are some ideas to get you started:
 
 <!-- badges languages-->
 
-[badge-c]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=c&logoColor=white
-[badge-cplusplus]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=cplusplus&logoColor=white
+[badge-c]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=c
+[badge-cplusplus]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=cplusplus
 
-[badge-csharp]: https://img.shields.io/badge/-C%23-grey?style=for-the-badge&logo=csharp&logoColor=white
+[badge-csharp]: https://img.shields.io/badge/-C%23-grey?style=for-the-badge&logo=csharp
 
 [badge-java]: https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=java&logoColor=white
-[badge-typescript]: https://img.shields.io/badge/-typescript-grey?style=for-the-badge&logo=typescript&logoColor=white
-[badge-shell]: https://img.shields.io/badge/-Shell-grey?style=for-the-badge&logo=gnu-bash&logoColor=white
+[badge-typescript]: https://img.shields.io/badge/-typescript-grey?style=for-the-badge&logo=typescript
+[badge-shell]: https://img.shields.io/badge/-Shell-grey?style=for-the-badge&logo=gnu-bash
 
-[badge-python]: https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white
+[badge-python]: https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python
 
 <!-- badges tech-->
 
 [badge-linux]: https://img.shields.io/badge/-❤️Linux-grey?style=for-the-badge&logo=linux&logoColor=white
-[badge-docker]: https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker&logoColor=white
-[badge-kubernetes]: https://img.shields.io/badge/-k8s-grey?style=for-the-badge&logo=kubernetes&logoColor=white
-[badge-vagrant]: https://img.shields.io/badge/-vagrant-grey?style=for-the-badge&logo=vagrant&logoColor=white
-[badge-argocd]: https://img.shields.io/badge/-argocd-grey?style=for-the-badge&logo=argo&logoColor=white
-[badge-ansible]: https://img.shields.io/badge/-ansible-grey?style=for-the-badge&logo=ansible&logoColor=white
-[badge-aws]: https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=amazon-aws&logoColor=white
+[badge-docker]: https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker
+[badge-kubernetes]: https://img.shields.io/badge/-k8s-grey?style=for-the-badge&logo=kubernetes
+[badge-vagrant]: https://img.shields.io/badge/-vagrant-grey?style=for-the-badge&logo=vagrant&logoColor=green
+[badge-argocd]: https://img.shields.io/badge/-argocd-grey?style=for-the-badge&logo=argo
+[badge-ansible]: https://img.shields.io/badge/-ansible-grey?style=for-the-badge&logo=ansible
+[badge-aws]: https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=amazon-aws
+[badge-influxdb]: https://img.shields.io/badge/-influxdb-grey?style=for-the-badge&logo=influxdb
+[badge-grafana]: https://img.shields.io/badge/-grafana-grey?style=for-the-badge&logo=grafana
+[badge-vuejs]: https://img.shields.io/badge/-vuejs-grey?style=for-the-badge&logo=vue.js
+[badge-nestjs]: https://img.shields.io/badge/-nestjs-grey?style=for-the-badge&logo=nestjs
+[badge-jest]: https://img.shields.io/badge/-jest-grey?style=for-the-badge&logo=jest
+[badge-nginx]: https://img.shields.io/badge/-nginx-grey?style=for-the-badge&logo=nginx
+[badge-mariadb]: https://img.shields.io/badge/-mariadb-grey?style=for-the-badge&logo=mariadb
+[badge-postgres]: https://img.shields.io/badge/-postgres-grey?style=for-the-badge&logo=postgresql&&logoColor=white
 
 <!-- badges social-->
 
-[badge-42]: https://img.shields.io/badge/-Paris-grey?style=for-the-badge&logo=42&logoColor=white&link=https://profile.intra.42.fr/users/juligonz
+[badge-42]: https://img.shields.io/badge/-Paris-grey?style=for-the-badge&logo=42&link=https://profile.intra.42.fr/users/juligonz
 
-[badge-linkedin]: https://img.shields.io/badge/-Linkedin-grey?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ggjulio
+[badge-linkedin]: https://img.shields.io/badge/-Linkedin-grey?style=for-the-badge&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ggjulio
 
 [badge-codingame]: https://img.shields.io/badge/-Codingame-grey?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjIiIHZpZXdCb3g9IjAgMCAyMDgzIDIwODMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI1MDAiIGhlaWdodD0iMjUwMCI+PHBhdGggZD0iTTAgMGgyMDgzdjIwODNIMHoiIGZpbGw9IiNmY2QyMDciLz48ZyBmaWxsPSIjMWYyNTI4Ij48cGF0aCBkPSJNMCAxNjM2YzQxMS41NTQtOTcuNzcxIDY5Mi44OTctMjgzLjE3NyA3MjQtNjM3IDEwLjcxNC0xMzEuMjEyIDY3LjM2NC0yNDMuNzc3IDIxNi0zMTkgMjA3LjY3NS04MC42MTcgMzA1LjcyOC01Mi4xNjQgMzkwLTEwIDkyLjY2OCA4MS43MjIgMTE5LjQ2OCAxOTkuOTQgNTAgMzcxLjUtMzEuOTE0IDEwMC4yNjYtMjkxLjAwMSAyMjMuODY3LTQxMCAyNTguNS0zOTIuNTM5IDE3NS44OTMtNTk1LjUwNCA0MzAuMjgyLTU2MSA3ODNIMHoiLz48ZWxsaXBzZSBjeD0iMTY2Ni41IiBjeT0iNDA4IiByeD0iMTk2LjUiIHJ5PSIxOTIiLz48L2c+PC9zdmc+&link=https://www.codingame.com/profile/4623c5a928cac73162e8bceb4bd784256213673
 
