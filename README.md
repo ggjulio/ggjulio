@@ -1,4 +1,4 @@
-#### Work in progress
+## 🚧 Work in progress 🚧
 ---
 [![badge linkedin][badge-linkedin]][link-linkedin]
 [![badge codingame][badge-codingame]][link-codingame]
@@ -18,7 +18,7 @@
 </details>
 
 <details>
-  <summary><b>WIP</b></summary>
+  <summary><b>🚧 WIP 🚧 </b></summary>
   
 [![badge linux][badge-linux]][link-linkedin]
 [![badge docker][badge-docker]][link-linkedin]
