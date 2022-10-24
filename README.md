@@ -28,18 +28,22 @@
 <details>
   <summary><b> Backend </b></summary>
 
-[![badge nestjs][badge-nestjs]][link-linkedin]
-[![badge jest][badge-jest]][link-linkedin]
-[![badge nginx][badge-nginx]][link-linkedin]
-[![badge mariadb][badge-mariadb]][link-linkedin]
-[![badge postgres][badge-postgres]][link-linkedin]
-[![badge openapi][badge-openapi]][link-linkedin]
-[![badge nodejs][badge-nodejs]][link-linkedin]
+  #### Databases
+  [![badge influxdb][badge-influxdb]][link-linkedin]
+  [![badge postgres][badge-postgres]][link-linkedin]
+  [![badge mariadb][badge-mariadb]][link-linkedin]
+  #### FRAMEWORKS
+
+  [![badge nestjs][badge-nestjs]][link-linkedin]
+  [![badge dot-net][badge-dot-net]][link-linkedin]
+  #### Other WIP
+  [![badge jest][badge-jest]][link-linkedin]
+  [![badge nginx][badge-nginx]][link-linkedin]
+  [![badge openapi][badge-openapi]][link-linkedin]
+  [![badge nodejs][badge-nodejs]][link-linkedin]
 </details>
 <details>
   <summary><b> Frontend </b></summary>
-
-#### test
 
 [![badge vuejs][badge-vuejs]][link-linkedin]
 [![badge sass][badge-sass]][link-linkedin]
@@ -66,7 +70,6 @@
 [![badge argocd][badge-argocd]][link-linkedin]
 [![badge ansible][badge-ansible]][link-linkedin]
 [![badge aws][badge-aws]][link-linkedin]
-[![badge influxdb][badge-influxdb]][link-linkedin]
 
 </details>
 
@@ -148,13 +151,14 @@ Here are some ideas to get you started:
 [badge-docker]: https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker
 
 <!-- badges backend -->
-[badge-influxdb]: https://img.shields.io/badge/-influxdb-grey?style=for-the-badge&logo=influxdb
 [badge-nestjs]: https://img.shields.io/badge/-nestjs-grey?style=for-the-badge&logo=nestjs
+[badge-dot-net]: https://img.shields.io/badge/-.net-grey?style=for-the-badge&logo=.net
 [badge-jest]: https://img.shields.io/badge/-jest-grey?style=for-the-badge&logo=jest
 [badge-nginx]: https://img.shields.io/badge/-nginx-grey?style=for-the-badge&logo=nginx
 [badge-mariadb]: https://img.shields.io/badge/-mariadb-grey?style=for-the-badge&logo=mariadb
 [badge-postgres]: https://img.shields.io/badge/-postgres-grey?style=for-the-badge&logo=postgresql&&logoColor=white
 [badge-openapi]: https://img.shields.io/badge/-openapi-grey?style=for-the-badge&logo=openapi-initiative
+[badge-influxdb]: https://img.shields.io/badge/-influxdb-grey?style=for-the-badge&logo=influxdb
 [badge-nodejs]: https://img.shields.io/badge/-nodejs-grey?style=for-the-badge&logo=node.js
 [badge-wireshark]: https://img.shields.io/badge/-wireshark-grey?style=for-the-badge&logo=wireshark
 
