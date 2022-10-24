@@ -2,8 +2,9 @@
 ---
 [![badge linkedin][badge-linkedin]][link-linkedin]
 [![badge codingame][badge-codingame]][link-codingame]
-[![badge GrabCad][badge-grabcad-no-logo]][link-grabcad]
 [![badge 42][badge-42]][link-42]
+[![badge GrabCad][badge-grabcad-no-logo]][link-grabcad]
+[![badge thingiverse][badge-thingiverse]][link-thingiverse]
 
 <details>
   <summary><b>Languages</b></summary>
@@ -17,8 +18,8 @@
 [![badge shell][badge-shell]][link-linkedin]
 </details>
 
-<details>
-  <summary><b>🚧 WIP 🚧 </b></summary>
+<!-- <details>
+  <summary><b>🚧 WIP 🚧 </b></summary> -->
   
 [![badge linux][badge-linux]][link-linkedin]
 [![badge docker][badge-docker]][link-linkedin]
@@ -35,8 +36,10 @@
 [![badge nginx][badge-nginx]][link-linkedin]
 [![badge mariadb][badge-mariadb]][link-linkedin]
 [![badge postgres][badge-postgres]][link-linkedin]
+[![badge openapi][badge-openapi]][link-linkedin]
+[![badge nodejs][badge-nodejs]][link-linkedin]
 
-</details>
+<!-- </details> -->
 
 
 ---
@@ -93,6 +96,7 @@ Here are some ideas to get you started:
 [link-codingame]: https://www.codingame.com/profile/4623c5a928cac73162e8bceb4bd784256213673
 [link-grabcad]: https://grabcad.com/julio.gonzalez-29
 [link-42]: https://profile.intra.42.fr/users/juligonz
+[link-thingiverse]: https://www.thingiverse.com/juliogg/designs
 
 <!-- badges languages-->
 
@@ -124,6 +128,8 @@ Here are some ideas to get you started:
 [badge-nginx]: https://img.shields.io/badge/-nginx-grey?style=for-the-badge&logo=nginx
 [badge-mariadb]: https://img.shields.io/badge/-mariadb-grey?style=for-the-badge&logo=mariadb
 [badge-postgres]: https://img.shields.io/badge/-postgres-grey?style=for-the-badge&logo=postgresql&&logoColor=white
+[badge-openapi]: https://img.shields.io/badge/-openapi-grey?style=for-the-badge&logo=openapi-initiative
+[badge-nodejs]: https://img.shields.io/badge/-nodejs-grey?style=for-the-badge&logo=node.js
 
 <!-- badges social-->
 
@@ -132,6 +138,8 @@ Here are some ideas to get you started:
 [badge-linkedin]: https://img.shields.io/badge/-Linkedin-grey?style=for-the-badge&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ggjulio
 
 [badge-codingame]: https://img.shields.io/badge/-Codingame-grey?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjIiIHZpZXdCb3g9IjAgMCAyMDgzIDIwODMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI1MDAiIGhlaWdodD0iMjUwMCI+PHBhdGggZD0iTTAgMGgyMDgzdjIwODNIMHoiIGZpbGw9IiNmY2QyMDciLz48ZyBmaWxsPSIjMWYyNTI4Ij48cGF0aCBkPSJNMCAxNjM2YzQxMS41NTQtOTcuNzcxIDY5Mi44OTctMjgzLjE3NyA3MjQtNjM3IDEwLjcxNC0xMzEuMjEyIDY3LjM2NC0yNDMuNzc3IDIxNi0zMTkgMjA3LjY3NS04MC42MTcgMzA1LjcyOC01Mi4xNjQgMzkwLTEwIDkyLjY2OCA4MS43MjIgMTE5LjQ2OCAxOTkuOTQgNTAgMzcxLjUtMzEuOTE0IDEwMC4yNjYtMjkxLjAwMSAyMjMuODY3LTQxMCAyNTguNS0zOTIuNTM5IDE3NS44OTMtNTk1LjUwNCA0MzAuMjgyLTU2MSA3ODNIMHoiLz48ZWxsaXBzZSBjeD0iMTY2Ni41IiBjeT0iNDA4IiByeD0iMTk2LjUiIHJ5PSIxOTIiLz48L2c+PC9zdmc+&link=https://www.codingame.com/profile/4623c5a928cac73162e8bceb4bd784256213673
+
+[badge-thingiverse]: https://img.shields.io/badge/-thingiverse-grey?style=for-the-badge&logo=makerbot&logoColor=white&link=https://grabcad.com/julio.gonzalez-29
 
 [badge-grabcad-no-logo]: https://img.shields.io/badge/-GrabCad-grey?style=for-the-badge&logo=&logoColor=white&link=https://grabcad.com/julio.gonzalez-29
 
