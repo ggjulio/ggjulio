@@ -1,5 +1,6 @@
-## 🚧 Work in progress 🚧
+## 👷🚧 README in progress 🚧👷
 ---
+
 [![badge linkedin][badge-linkedin]][link-linkedin]
 [![badge codingame][badge-codingame]][link-codingame]
 [![badge 42][badge-42]][link-42]
@@ -133,14 +134,11 @@ Here are some ideas to get you started:
 
 [badge-c]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=c
 [badge-cplusplus]: https://img.shields.io/badge/--grey?style=for-the-badge&logo=cplusplus
-
 [badge-csharp]: https://img.shields.io/badge/-C%23-grey?style=for-the-badge&logo=csharp
-
 [badge-java]: https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=java&logoColor=white
+[badge-python]: https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python
 [badge-typescript]: https://img.shields.io/badge/-typescript-grey?style=for-the-badge&logo=typescript
 [badge-shell]: https://img.shields.io/badge/-Shell-grey?style=for-the-badge&logo=gnu-bash
-
-[badge-python]: https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python
 [badge-assembly]: https://img.shields.io/badge/-assembly-grey?style=for-the-badge&logo=assembly
 
 <!----------------------->
@@ -151,16 +149,18 @@ Here are some ideas to get you started:
 [badge-docker]: https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker
 
 <!-- badges backend -->
-[badge-nestjs]: https://img.shields.io/badge/-nestjs-grey?style=for-the-badge&logo=nestjs
-[badge-dot-net]: https://img.shields.io/badge/-.net-grey?style=for-the-badge&logo=.net
-[badge-jest]: https://img.shields.io/badge/-jest-grey?style=for-the-badge&logo=jest
-[badge-nginx]: https://img.shields.io/badge/-nginx-grey?style=for-the-badge&logo=nginx
+[badge-influxdb]: https://img.shields.io/badge/-influxdb-grey?style=for-the-badge&logo=influxdb
 [badge-mariadb]: https://img.shields.io/badge/-mariadb-grey?style=for-the-badge&logo=mariadb
 [badge-postgres]: https://img.shields.io/badge/-postgres-grey?style=for-the-badge&logo=postgresql&&logoColor=white
+
+[badge-nestjs]: https://img.shields.io/badge/-nestjs-grey?style=for-the-badge&logo=nestjs
+[badge-dot-net]: https://img.shields.io/badge/-.net-grey?style=for-the-badge&logo=.net
+
+[badge-jest]: https://img.shields.io/badge/-jest-grey?style=for-the-badge&logo=jest
+[badge-nginx]: https://img.shields.io/badge/-nginx-grey?style=for-the-badge&logo=nginx
 [badge-openapi]: https://img.shields.io/badge/-openapi-grey?style=for-the-badge&logo=openapi-initiative
-[badge-influxdb]: https://img.shields.io/badge/-influxdb-grey?style=for-the-badge&logo=influxdb
 [badge-nodejs]: https://img.shields.io/badge/-nodejs-grey?style=for-the-badge&logo=node.js
-[badge-wireshark]: https://img.shields.io/badge/-wireshark-grey?style=for-the-badge&logo=wireshark
+
 
 <!-- badges frontend -->
 [badge-vuejs]: https://img.shields.io/badge/-vuejs-grey?style=for-the-badge&logo=vue.js
@@ -177,6 +177,7 @@ Here are some ideas to get you started:
 [badge-grafana]: https://img.shields.io/badge/-grafana-grey?style=for-the-badge&logo=grafana
 
 <!-- badges security -->
+[badge-wireshark]: https://img.shields.io/badge/-wireshark-grey?style=for-the-badge&logo=wireshark
 
 <!-- misc -->
 
