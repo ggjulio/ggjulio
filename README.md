@@ -18,8 +18,8 @@
 [![badge shell][badge-shell]][link-linkedin]
 </details>
 
-<!-- <details>
-  <summary><b>🚧 WIP 🚧 </b></summary> -->
+<details>
+  <summary><b>🚧 WIP 🚧 </b></summary>
   
 [![badge linux][badge-linux]][link-linkedin]
 [![badge docker][badge-docker]][link-linkedin]
@@ -39,7 +39,7 @@
 [![badge openapi][badge-openapi]][link-linkedin]
 [![badge nodejs][badge-nodejs]][link-linkedin]
 
-<!-- </details> -->
+</details>
 
 
 ---
