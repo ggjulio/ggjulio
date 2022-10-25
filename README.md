@@ -30,11 +30,10 @@
   <summary><b> Backend </b></summary>
 
   #### Databases
-  [![badge influxdb][badge-influxdb]][link-linkedin]
   [![badge postgres][badge-postgres]][link-linkedin]
   [![badge mariadb][badge-mariadb]][link-linkedin]
-  #### FRAMEWORKS
-
+  [![badge influxdb][badge-influxdb]][link-linkedin]
+  #### Frameworks
   [![badge nestjs][badge-nestjs]][link-linkedin]
   [![badge dot-net][badge-dot-net]][link-linkedin]
   #### Other WIP
@@ -45,7 +44,6 @@
 </details>
 <details>
   <summary><b> Frontend </b></summary>
-
 [![badge vuejs][badge-vuejs]][link-linkedin]
 [![badge sass][badge-sass]][link-linkedin]
 [![badge bootstrap][badge-bootstrap]][link-linkedin]
@@ -156,9 +154,9 @@ Here are some ideas to get you started:
 [badge-docker]: https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker
 
 <!-- badges backend -->
-[badge-influxdb]: https://img.shields.io/badge/-influxdb-grey?style=for-the-badge&logo=influxdb
-[badge-mariadb]: https://img.shields.io/badge/-mariadb-grey?style=for-the-badge&logo=mariadb
 [badge-postgres]: https://img.shields.io/badge/-postgres-grey?style=for-the-badge&logo=postgresql&&logoColor=white
+[badge-mariadb]: https://img.shields.io/badge/-mariadb-grey?style=for-the-badge&logo=mariadb
+[badge-influxdb]: https://img.shields.io/badge/-influxdb-grey?style=for-the-badge&logo=influxdb
 
 [badge-nestjs]: https://img.shields.io/badge/-nestjs-grey?style=for-the-badge&logo=nestjs
 [badge-dot-net]: https://img.shields.io/badge/-.net-grey?style=for-the-badge&logo=.net
