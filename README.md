@@ -37,13 +37,13 @@
   [![badge nestjs][badge-nestjs]][link-linkedin]
   [![badge dot-net][badge-dot-net]][link-linkedin]
   #### Other WIP
-  [![badge jest][badge-jest]][link-linkedin]
   [![badge nginx][badge-nginx]][link-linkedin]
   [![badge openapi][badge-openapi]][link-linkedin]
   [![badge nodejs][badge-nodejs]][link-linkedin]
 </details>
 <details>
   <summary><b> Frontend </b></summary>
+
 [![badge vuejs][badge-vuejs]][link-linkedin]
 [![badge sass][badge-sass]][link-linkedin]
 [![badge bootstrap][badge-bootstrap]][link-linkedin]
@@ -55,34 +55,25 @@
 [![badge k3s][badge-k3s]][link-linkedin]
 [![badge grafana][badge-grafana]][link-linkedin]
 [![badge helm][badge-helm]][link-helm]
-</details>
-<details>
-  <summary><b> Security </b></summary>
-  
-[![badge wireshark][badge-wireshark]][link-linkedin]
-
-</details>
-<details>
-  <summary><b> DIY </b></summary>
-  
-[![badge wireshark][badge-wireshark]][link-linkedin]
-
-</details>
-
-<details>
-  <summary><b>🚧 WIP 🚧 </b></summary>
-  
 [![badge vagrant][badge-vagrant]][link-linkedin]
 [![badge argocd][badge-argocd]][link-linkedin]
 [![badge ansible][badge-ansible]][link-linkedin]
 [![badge aws][badge-aws]][link-linkedin]
+</details>
+<details>
+  <summary><b> Security </b></summary>
 
+</details>
+
+<details>
+  <summary><b> Misc (can't be categorized) </b></summary>
+
+[![badge wireshark][badge-wireshark]][link-linkedin]
 </details>
 
 ---
 <details>
   <summary><b>✨🔭 Awesome sources to explore in depth</b></summary>
-  
  
    - https://github.com/donnemartin/system-design-primer
    - https://github.com/kelseyhightower/kubernetes-the-hard-way
@@ -161,11 +152,9 @@ Here are some ideas to get you started:
 [badge-nestjs]: https://img.shields.io/badge/-nestjs-grey?style=for-the-badge&logo=nestjs
 [badge-dot-net]: https://img.shields.io/badge/-.net-grey?style=for-the-badge&logo=.net
 
-[badge-jest]: https://img.shields.io/badge/-jest-grey?style=for-the-badge&logo=jest
 [badge-nginx]: https://img.shields.io/badge/-nginx-grey?style=for-the-badge&logo=nginx
 [badge-openapi]: https://img.shields.io/badge/-openapi-grey?style=for-the-badge&logo=openapi-initiative
 [badge-nodejs]: https://img.shields.io/badge/-nodejs-grey?style=for-the-badge&logo=node.js
-
 
 <!-- badges frontend -->
 [badge-vuejs]: https://img.shields.io/badge/-vuejs-grey?style=for-the-badge&logo=vue.js
@@ -182,11 +171,12 @@ Here are some ideas to get you started:
 [badge-grafana]: https://img.shields.io/badge/-grafana-grey?style=for-the-badge&logo=grafana
 
 <!-- badges security -->
-[badge-wireshark]: https://img.shields.io/badge/-wireshark-grey?style=for-the-badge&logo=wireshark
 
 <!-- misc -->
+[badge-wireshark]: https://img.shields.io/badge/-wireshark-grey?style=for-the-badge&logo=wireshark
 
-
+<!-- Not used -->
+[badge-jest]: https://img.shields.io/badge/-jest-grey?style=for-the-badge&logo=jest
 
 <!-- badges social-->
 
