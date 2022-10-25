@@ -29,14 +29,12 @@
 <details>
   <summary><b> Backend </b></summary>
 
-  #### Databases
   [![badge postgres][badge-postgres]][link-linkedin]
   [![badge mariadb][badge-mariadb]][link-linkedin]
   [![badge influxdb][badge-influxdb]][link-linkedin]
-  #### Frameworks
+
   [![badge nestjs][badge-nestjs]][link-linkedin]
   [![badge dot-net][badge-dot-net]][link-linkedin]
-  #### Other WIP
   [![badge nginx][badge-nginx]][link-linkedin]
   [![badge openapi][badge-openapi]][link-linkedin]
   [![badge nodejs][badge-nodejs]][link-linkedin]
