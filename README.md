@@ -31,7 +31,7 @@ I'm proficient in:   (Except, Assembly of course 🫠)
 [![badge shell][badge-shell]][link-linkedin]
 [![badge assembly][badge-assembly]][link-linkedin]
 
-Not proficient but I will :
+Not proficient but I will, one day, maybe 🤷 :
   
 [![badge java][badge-java]][link-linkedin]
 [![badge go][badge-go]][link-linkedin]
