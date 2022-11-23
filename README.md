@@ -7,7 +7,7 @@
 [![badge thingiverse][badge-thingiverse]][link-thingiverse]
 
 - 🔭 I’m currently looking **for a position in Paris (Open to remote but I'm team office ! 🏢)**
-- 👯 I’m also looking for an **open source project** to make **meaningfull contributions** on my free time (I'm "full" free time for now lol ☺️).
+- 👯 I’m also looking for an **open source project** to make **meaningfull contributions** on my free time (I'm "full" free time for now lol 😄).
 - 📫 How to reach me: [DM me on LinkedIn][link-linkedin]
 - ⚡ (Not) **Fun fact:** Largest organism on earth, 7500 tons, 9km squared. Anyway 👀
 
