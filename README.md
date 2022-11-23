@@ -6,28 +6,34 @@
 [![badge GrabCad][badge-grabcad-no-logo]][link-grabcad]
 [![badge thingiverse][badge-thingiverse]][link-thingiverse]
 
-- 🔭 I’m currently looking **for a position in Paris (Open to remote but I'm team office ! 🏢)**
+- 🔭 I’m currently looking **for a position in Paris (Open to remote but prefer In-Office ! 🏢)**
 - 👯 I’m also looking for an **open source project** to make **meaningfull contributions** on my free time (I'm "full" free time for now lol 😄).
 - 📫 How to reach me: [DM me on LinkedIn][link-linkedin]
 - ⚡ (Not) **Fun fact:** Largest organism on earth, 7500 tons, 9km squared. Anyway 👀
 
+10 things I ❤️ the most:
+
+[![badge linux][badge-linux]][link-linkedin]
+[![badge docker][badge-docker]][link-linkedin]
+
+---
 <details>
   <summary><b>Languages</b></summary>
-
+I'm proficient in:   (Except, Assembly of course 🫠)
+  
 [![badge c][badge-c]][link-linkedin]
 [![badge cplusplus][badge-cplusplus]][link-linkedin]
 [![badge csharp][badge-csharp]][link-linkedin]
-[![badge java][badge-java]][link-linkedin]
 [![badge python][badge-python]][link-linkedin]
 [![badge typescript][badge-typescript]][link-linkedin]
 [![badge shell][badge-shell]][link-linkedin]
 [![badge assembly][badge-assembly]][link-linkedin]
-</details>
-<details>
-  <summary><b> General </b></summary>
 
-[![badge linux][badge-linux]][link-linkedin]
-[![badge docker][badge-docker]][link-linkedin]
+Not proficient but I will :
+  
+[![badge java][badge-java]][link-linkedin]
+[![badge go][badge-go]][link-linkedin]
+[![badge rust][badge-rust]][link-linkedin]
 
 </details>
 <details>
@@ -138,6 +144,8 @@ Here are some ideas to get you started:
 [badge-typescript]: https://img.shields.io/badge/-typescript-grey?style=for-the-badge&logo=typescript
 [badge-shell]: https://img.shields.io/badge/-Shell-grey?style=for-the-badge&logo=gnu-bash
 [badge-assembly]: https://img.shields.io/badge/-assembly-grey?style=for-the-badge&logo=assembly
+[badge-go]: https://img.shields.io/badge/-golang-grey?style=for-the-badge&logo=go
+[badge-rust]: https://img.shields.io/badge/-rust-grey?style=for-the-badge&logo=rust
 
 <!----------------------->
 <!-- badges tech-->
