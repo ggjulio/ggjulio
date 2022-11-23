@@ -1,11 +1,15 @@
 ## 👷🚧 README in progress 🚧👷
----
 
 [![badge linkedin][badge-linkedin]][link-linkedin]
 [![badge codingame][badge-codingame]][link-codingame]
 [![badge 42][badge-42]][link-42]
 [![badge GrabCad][badge-grabcad-no-logo]][link-grabcad]
 [![badge thingiverse][badge-thingiverse]][link-thingiverse]
+
+- 🔭 I’m currently looking **for a position in Paris (Open to remote but I'm team office ! 🏢)**
+- 👯 I’m also looking for an **open source project** to make **meaningfull contributions** on my free time (I'm "full" free time for now lol ☺️).
+- 📫 How to reach me: [DM me on LinkedIn][link-linkedin]
+- ⚡ (Not) **Fun fact:** Largest organism on earth, 7500 tons, 9km squared. Anyway 👀
 
 <details>
   <summary><b>Languages</b></summary>
