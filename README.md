@@ -13,9 +13,9 @@
 - 📫 How to reach me: [DM me on LinkedIn][link-linkedin]
 - ⚡ (Not) **Fun fact:** Largest organism on earth, 7500 tons, 9km squared. Anyway 👀
 
-10 things I ❤️ the most :
+10 things I lo❤️e the most :
 
-[![badge linux][badge-linux]][link-linkedin]
+[![badge linux][badge-linux]][link-linkedin] && 
 [![badge docker][badge-docker]][link-linkedin]
 
 ---
