@@ -12,13 +12,10 @@
 - 👯 I’m also **looking for an open source project to contribute** (I have a bunch of free time for now... 😄).
 - 📫 How to reach me: [DM me on LinkedIn][link-linkedin]
 - ⚡ (Not) **Fun fact:** Largest organism on earth, 7500 tons, 9km squared. Anyway 👀
-
-10 things I lo❤️e the most :
-
-[![badge linux][badge-linux]][link-linkedin] && 
+- **10 tech things** I lo❤️e the most :
+[![badge linux][badge-linux]][link-linkedin]
 [![badge docker][badge-docker]][link-linkedin]
 
----
 <details>
   <summary><b>Languages</b></summary>
 I'm proficient in:   (Except, Assembly of course 🫠)
