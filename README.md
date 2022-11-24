@@ -6,7 +6,7 @@
 [![badge GrabCad][badge-grabcad-no-logo]][link-grabcad]
 [![badge thingiverse][badge-thingiverse]][link-thingiverse]
 
-- 👋 **$> whoami:** `Jr. Software Engineer` passionate about `DevOps` and `Distributed systems`.
+- 👋 **$> whoami:** `Software Engineer` passionate about `DevOps` and `Distributed systems`.
 - 🧑‍🎓 Stud [@ 42Paris](https://github.com/42paris)
 - 🔭 I’m currently **looking for a position in Paris (Open to remote but I prefer In-Office ! 🏢)**
 - 👯 I’m also **looking for an open source project to contribute** (I have a bunch of free time for now... 😄).
