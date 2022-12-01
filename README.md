@@ -9,7 +9,7 @@
 - 👋 **$> whoami:** `Software Engineer` passionate about `DevOps` and `Distributed systems`.
 - 🧑‍🎓 Stud [@ 42Paris](https://github.com/42paris)
 - 🔭 I’m currently **looking for a position in Paris (Open to remote but I prefer In-Office ! 🏢)**
-- 👯 I’m also **looking for an open source project to contribute** (I have a bunch of free time for now... 😄).
+- 👯 I’m also **looking for an open source project to contribute to** (I have a bunch of free time for now... 😄).
 - 📫 How to reach me: [DM me on LinkedIn][link-linkedin]
 - ⚡ (Not) **Fun fact:** Largest organism on earth, 7500 tons, 9km squared. Anyway 👀
 - **10 techos** I lo❤️e the most :
