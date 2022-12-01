@@ -73,7 +73,7 @@ Not proficient but I will, one day, maybe 🤷 :
 </details>
 
 <details>
-  <summary><b> Misc (can't be categorized) </b></summary>
+  <summary><b> Misc </b></summary>
 
 [![badge wireshark][badge-wireshark]][link-linkedin]
 </details>
