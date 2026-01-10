@@ -1,4 +1,4 @@
-## 👷🚧 README in progress 🚧👷
+## 👷🚧 README not in progress 🚧👷
 
 [![badge linkedin][badge-linkedin]][link-linkedin]
 [![badge codingame][badge-codingame]][link-codingame]
@@ -6,76 +6,14 @@
 [![badge GrabCad][badge-grabcad-no-logo]][link-grabcad]
 [![badge thingiverse][badge-thingiverse]][link-thingiverse]
 
-- 👋 **$> whoami:** `Software Engineer` passionate about `DevOps` and `Distributed systems`.
 - 🧑‍🎓 Stud [@ 42Paris](https://github.com/42paris)
-- 👯 ~~I’m **looking for an open source project to contribute to** 😄~~ -> Not enough time now 😕
-- 📫 How to reach me: [DM me on LinkedIn][link-linkedin]
 - ⚡ (Not) **Fun fact:** Largest organism on earth, 7500 tons, 9km squared. Anyway 👀
 - **10 techos** I lo❤️e the most :
 [![badge linux][badge-linux]][link-linkedin]
 [![badge docker][badge-docker]][link-linkedin]
 
-<details>
-  <summary><b>Languages</b></summary>
-I'm proficient in:   (Except, Assembly of course 🫠)
-  
-[![badge c][badge-c]][link-linkedin]
-[![badge cplusplus][badge-cplusplus]][link-linkedin]
-[![badge csharp][badge-csharp]][link-linkedin]
-[![badge python][badge-python]][link-linkedin]
-[![badge typescript][badge-typescript]][link-linkedin]
-[![badge shell][badge-shell]][link-linkedin]
-[![badge assembly][badge-assembly]][link-linkedin]
 
-Not proficient but I will, one day, maybe 🤷 :
-  
-[![badge java][badge-java]][link-linkedin]
-[![badge go][badge-go]][link-linkedin]
-[![badge rust][badge-rust]][link-linkedin]
-
-</details>
-<details>
-  <summary><b> Backend </b></summary>
-
-  [![badge postgres][badge-postgres]][link-linkedin]
-  [![badge mariadb][badge-mariadb]][link-linkedin]
-  [![badge influxdb][badge-influxdb]][link-linkedin]
-
-  [![badge nestjs][badge-nestjs]][link-linkedin]
-  [![badge dot-net][badge-dot-net]][link-linkedin]
-  [![badge nginx][badge-nginx]][link-linkedin]
-  [![badge openapi][badge-openapi]][link-linkedin]
-  [![badge nodejs][badge-nodejs]][link-linkedin]
-</details>
-<details>
-  <summary><b> Frontend </b></summary>
-
-[![badge vuejs][badge-vuejs]][link-linkedin]
-[![badge sass][badge-sass]][link-linkedin]
-[![badge bootstrap][badge-bootstrap]][link-linkedin]
-</details>
-<details>
-  <summary><b> Devops </b></summary>
-
-[![badge kubernetes][badge-kubernetes]][link-linkedin]
-[![badge k3s][badge-k3s]][link-linkedin]
-[![badge grafana][badge-grafana]][link-linkedin]
-[![badge helm][badge-helm]][link-helm]
-[![badge vagrant][badge-vagrant]][link-linkedin]
-[![badge argocd][badge-argocd]][link-linkedin]
-[![badge ansible][badge-ansible]][link-linkedin]
-[![badge aws][badge-aws]][link-linkedin]
-</details>
-<details>
-  <summary><b> Security </b></summary>
-
-</details>
-
-<details>
-  <summary><b> Misc </b></summary>
-
-[![badge wireshark][badge-wireshark]][link-linkedin]
-</details>
+<!--
 
 ---
 <details>
@@ -93,6 +31,8 @@ Not proficient but I will, one day, maybe 🤷 :
    - https://github.com/alex-xu-system/bytebytego/blob/main/system_design_links.md
 
 </details>
+-->
+
 <details>
   <summary><b>📈  Github's stats</b></summary>
 
